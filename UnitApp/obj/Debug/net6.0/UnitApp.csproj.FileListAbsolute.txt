@@ -1,0 +1,15 @@
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\bin\Debug\net6.0\UnitApp.exe
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\bin\Debug\net6.0\UnitApp.deps.json
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\bin\Debug\net6.0\UnitApp.runtimeconfig.json
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\bin\Debug\net6.0\UnitApp.dll
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\bin\Debug\net6.0\ref\UnitApp.dll
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\bin\Debug\net6.0\UnitApp.pdb
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.csproj.AssemblyReference.cache
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.AssemblyInfoInputs.cache
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.AssemblyInfo.cs
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.csproj.CoreCompileInputs.cache
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.dll
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\ref\UnitApp.dll
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.pdb
+D:\testing\Maxima_Aqa\UnitExample\1\UnitApp\obj\Debug\net6.0\UnitApp.genruntimeconfig.cache
