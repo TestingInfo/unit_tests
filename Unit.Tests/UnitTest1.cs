@@ -21,12 +21,18 @@ namespace Unit.Tests
             bool result = SimpleClass.IsEmpty("text");
             Assert.False(result);
         }
-        
-        
+
+        [Test]
+        public void CheckIsOloloInStringTesting()
+        {
+            var result = SimpleClass.OloloInString("ololo");
+            Assert.True(result);
+        }
+
         [Test]
         public void CheckIsDigitalByStringValueTesting()
         {
-            Assert.False(SimpleClass.IsDigital("sddfgadfaga"));
+           Assert.False(SimpleClass.IsDigital("sddfgadfaga"));
         }
         
         [Test]
