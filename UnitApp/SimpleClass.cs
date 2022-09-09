@@ -27,9 +27,7 @@ namespace UnitApp
 
         public static bool OloloInString(string str)
         {
-            string a;
-            string b;
-            string c;
+        
             if (str == "ololo")
             {
                 return true;
